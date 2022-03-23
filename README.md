@@ -1,6 +1,6 @@
 # RNChartKit
 
-Showing chart on mobile with react native using react-native-chart-kit.
+Showing chart on mobile with react native using react-native-chart-kit. https://www.npmjs.com/package/react-native-chart-kit
 
 Steps:
 1. clone this project.
